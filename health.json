@@ -1,0 +1,34 @@
+{
+    "13/05/2024":{
+        "Workouts" : [{
+            "WorkoutTime" : "Morning",
+            "WorkoutType" : "Running",
+            "BodyPartsTargetted" : ["Legs","Heart"],
+            "CaloriesBurnt" : 350,
+            "TimeSpent" : 30,
+            "MaxHeartRate" : 190
+        },
+        {
+            "WorkoutTime" : "Night",
+            "WorkoutType" : "FunctionalTraining",
+            "BodyPartsTargetted" : ["Back","Biceps","Core"],
+            "CaloriesBurnt" : 350,
+            "TimeSpent" : 30,
+            "MaxHeartRate" : 190
+        }], 
+        "Food" : {
+                "Calories" : 350, 
+                "Protein" : 20,
+                "Carbs" : 20,
+                "Fiber" : 30,
+                "Fat" : 30
+        },
+        "HoursSlept" : 8, 
+        "WaterConsumed" : 20, 
+        "Supplements" : {
+            "Multivitamin" : true,
+            "Creatine" : true,
+            "WheyProtein" : true
+        }
+    }
+}

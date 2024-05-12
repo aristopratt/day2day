@@ -1,0 +1,28 @@
+{
+    "13/05/2024":{
+        "Activities" : [ 
+            {
+                "ActivityName" : "Reading",
+                "ActivityDetails" : {
+                    "BookName" : "Name",
+                    "PagesRead" : 30
+                }
+            },
+            {
+                "ActivityName" : "GuitarPractice",
+                "ActivityDetails" : {
+                    "TimeSpent" : 30
+                }
+            },
+            {
+                "ActivityName" : "LinearAlgebraCourse",
+                "ActivityDetails" : {
+                    "CourseLocation" : "Coursera",
+                    "TimeSpent" : 30
+                }
+            }
+        ],   
+        "PhoneScreenTime" : 30,
+        "Top3Apps" : ["", "", ""]
+    }
+}

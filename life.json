@@ -1,28 +1,16 @@
 {
     "13/05/2024":{
-        "Activities" : [ 
-            {
-                "ActivityName" : "Reading",
-                "ActivityDetails" : {
-                    "BookName" : "Name",
-                    "PagesRead" : 30
-                }
-            },
-            {
-                "ActivityName" : "GuitarPractice",
-                "ActivityDetails" : {
-                    "TimeSpent" : 30
-                }
-            },
-            {
-                "ActivityName" : "LinearAlgebraCourse",
-                "ActivityDetails" : {
-                    "CourseLocation" : "Coursera",
-                    "TimeSpent" : 30
-                }
-            }
-        ],   
-        "PhoneScreenTime" : 30,
-        "Top3Apps" : ["", "", ""]
+        "Work" : {
+            "hoursSpent" : 12
+        },
+        "Health" : {
+            "protein" : 100,
+            "caloriesBurnt" : 500,
+            "steps" : 5000,
+            "calorieDeficit" : true
+        },
+        "Hobbies" : {
+            "reading" : true
+        }
     }
 }
